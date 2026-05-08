@@ -1,5 +1,5 @@
 $text-preset-1: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 500,
     font-size: 8rem,
     line-height: 100%,
@@ -7,7 +7,7 @@ $text-preset-1: (
 );
 
 $text-preset-2-medium: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 500,
     font-size: 4rem,
     line-height: 100%,
@@ -15,7 +15,7 @@ $text-preset-2-medium: (
 );
 
 $text-preset-2-light: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 300,
     font-size: 4rem,
     line-height: 100%,
@@ -23,7 +23,7 @@ $text-preset-2-light: (
 );
 
 $text-preset-3-medium: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 500,
     font-size: 2.3rem, // 36.8px    
     line-height: 120%,
@@ -31,7 +31,7 @@ $text-preset-3-medium: (
 );
 
 $text-preset-4-medium: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 500,
     font-size: 1.8rem, // 28.8px  
     line-height: 100%,
@@ -39,7 +39,7 @@ $text-preset-4-medium: (
 );
 
 $text-preset-5-medium: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 500,
     font-size: 1.5rem, // 28.8px  
     line-height: 150%,
@@ -47,7 +47,7 @@ $text-preset-5-medium: (
 );
 
 $text-preset-5-regular: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 400,
     font-size: 1.5rem, // 28.8px  
     line-height: 150%,
@@ -55,7 +55,7 @@ $text-preset-5-regular: (
 );
 
 $text-preset-6-italic: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 400,
     font-size: 1.25rem, // 20px  
     line-height: 150%,
@@ -64,7 +64,7 @@ $text-preset-6-italic: (
 );
 
 $text-preset-1mobile-medium: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 500,
     font-size: 5rem, // 80px
     line-height: 100%,
@@ -72,7 +72,7 @@ $text-preset-1mobile-medium: (
 );
 
 $text-preset-2mobile-medium: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 500,
     font-size: 2.5rem, // 40px
     line-height: 100%,
@@ -80,7 +80,7 @@ $text-preset-2mobile-medium: (
 );
 
 $text-preset-2mobile-light: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 300,
     font-size: 2.5rem, // 40px
     line-height: 100%,
@@ -88,7 +88,7 @@ $text-preset-2mobile-light: (
 );
 
 $text-preset-3mobile-medium: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 500,
     font-size: 1.25rem, // 20px
     line-height: 120%,
@@ -96,7 +96,7 @@ $text-preset-3mobile-medium: (
 );
 
 $text-preset-4mobile-medium: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 500,
     font-size: 1.15rem, // 18.4px
     line-height: 100%,
@@ -104,7 +104,7 @@ $text-preset-4mobile-medium: (
 );
 
 $text-preset-5mobile-italic: (
-    font-family: 'Rubik', sans-serif,
+    font-family: ('Rubik', sans-serif),
     font-weight: 400,
     font-size: 0.9rem, // 14.4px
     line-height: 150%,
