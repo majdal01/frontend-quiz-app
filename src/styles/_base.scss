@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+}

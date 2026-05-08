@@ -1,0 +1,13 @@
+/* src/styles/_components.scss */
+.quiz-card {
+  background: var(--color-surface);
+  border-radius: var(--radius-md);
+  padding: var(--space-6);
+}
+
+.btn {
+  border: 0;
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  cursor: pointer;
+}

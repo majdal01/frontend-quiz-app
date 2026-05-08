@@ -1,0 +1,23 @@
+<template>
+    <div>
+        <!-- Quiz completed start -->
+
+        Quiz completed
+        You scored...
+
+        <!-- score --> out of 10
+
+        <!-- Quiz completed end -->
+
+    </div>
+</template>
+
+<script setup lang="ts">
+
+
+
+</script>
+
+<style lang="scss" scoped>
+
+</style>
